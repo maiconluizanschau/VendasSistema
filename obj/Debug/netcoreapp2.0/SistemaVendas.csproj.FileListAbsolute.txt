@@ -1,0 +1,28 @@
+D:\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.deps.json
+D:\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.json
+D:\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.dev.json
+D:\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.dll
+D:\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.pdb
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csprojResolveAssemblyReference.cache
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csproj.CoreCompileInputs.cache
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfoInputs.cache
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfo.cs
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.dll
+D:\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.pdb
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.deps.json
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.json
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.runtimeconfig.dev.json
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.dll
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\bin\Debug\netcoreapp2.0\SistemaVendas.pdb
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csprojResolveAssemblyReference.cache
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfoInputs.cache
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfo.cs
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.dll
+C:\tempft\Nova pasta\SistemaVendas\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.pdb
+C:\Users\LablinUFSM\Desktop\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csprojAssemblyReference.cache
+C:\Users\LablinUFSM\Desktop\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Users\LablinUFSM\Desktop\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfoInputs.cache
+C:\Users\LablinUFSM\Desktop\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.AssemblyInfo.cs
+C:\Users\LablinUFSM\Desktop\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.dll
+C:\Users\LablinUFSM\Desktop\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp2.0\SistemaVendas.pdb
